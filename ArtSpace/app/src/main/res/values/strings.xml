@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="art_one">Ảnh 1</string>
+    <string name="art_two">Ảnh 2</string>
+    <string name="art_three">Ảnh 3</string>
+
+    <string name="artist_one">Người vẽ 1</string>"
+    <string name="artist_two">Người vẽ 2</string>
+    <string name="artist_three">Người vẽ 3</string>
+
+</resources>
