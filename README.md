@@ -27,7 +27,7 @@ Each app contains a certain knowledge about how to code an Android app with comp
 
 ### 5️⃣ **Superheroes 🦸**
    - **Description:** A list of superheroes with their abilities.
-   - **Concepts Used:** LazyColumn, Theming, Material 3 components.
+   - **Concepts Used:** LazyColumn, Theming, Material 3 components, TopAppBar, CardView, Box, Row, Column,...
    - **How to Run:** Scroll through the superhero list and explore their details.
 
 ### 6️⃣ **Affirmation 💡**
