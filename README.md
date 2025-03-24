@@ -34,3 +34,8 @@ Each app contains a certain knowledge about how to code an Android app with comp
    - **Description:** An app that displays motivational affirmations.
    - **Concepts Used:** RecyclerView (LazyColumn in Jetpack Compose), String resources, Image handling.
    - **How to Use:** Scroll through the list to read different affirmations.
+
+### 7 MarsPhotosApp
+   - Description: An Android app that displays Mars photos fetched from a network API, using best practices like repository pattern and dependency injection to separate the UI and data layers.
+   - Concepts Used: Repository pattern, Dependency injection manual, ViewModel, Retrofit, Coroutines, Unit Test for Repository and ViewModel
+   - How to Run: Clone the repository and run project
